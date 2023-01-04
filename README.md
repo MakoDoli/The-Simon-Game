@@ -1,4 +1,5 @@
-Simon Game
+# Simon Game
+
 ![Design preview for the Simon Game ](preview.png)
 
 Welcome! 😊
